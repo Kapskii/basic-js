@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "Tasks for RSS",
   "main": "index.js",
-  "engines": {
-    "node": "16",
-    "npm": "8"
-  },
   "directories": {
     "test": "test"
   },
